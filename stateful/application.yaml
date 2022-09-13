@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: my-stateful-app
-  namespace: deault
+  namespace: myapp
 spec:
   project: default
 
